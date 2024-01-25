@@ -1,6 +1,6 @@
 # test2024
-test page
 
+-git submodule update 
 -git push -u origin ()
 
  
